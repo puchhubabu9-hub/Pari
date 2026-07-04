@@ -1,0 +1,6 @@
+{
+  "name": "Pari",
+  "description": "Your personal ultra-intelligent companion, creative partner, and voice-enabled assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
